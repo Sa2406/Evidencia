@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Evidencia_Java_Final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Evidencia_Java_Final_jar</output-path>
+    <root id="archive" name="Evidencia_Java_Final.jar">
+      <element id="module-output" name="Evidencia_Java_Final" />
+    </root>
+  </artifact>
+</component>
